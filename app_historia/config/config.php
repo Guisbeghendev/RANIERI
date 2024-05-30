@@ -3,8 +3,8 @@
 require_once dirname(__DIR__, 2) . '/config/common.php';
 
 // Configurações Específicas do App Historia
-define('APP_HISTORIA', 'História da Escola Prof. José Ranieri');
-define('APP_HISTORIA_DESCRIPTION', 'Este aplicativo exibe a história da Escola Prof. José Ranieri.');
+define('APP_HISTORIA', 'História da Escola');
+define('APP_HISTORIA_DESCRIPTION', 'Este aplicativo exibe a história da Escola.');
 
 // URLs específicas do aplicativo de história
 define('APP_HISTORIA_BASE_URL', BASE_URL . '/app_historia');

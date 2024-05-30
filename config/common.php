@@ -8,7 +8,7 @@ define('JS_PATH', ASSETS_PATH . '/js');
 define('IMAGES_PATH', ASSETS_PATH . '/images');
 
 // URLs
-define('BASE_URL', 'https://escolajoseranieri.net.br');
+define('BASE_URL', 'https://e.net.br');
 define('CSS_URL', BASE_URL . '/assets/css');
 define('JS_URL', BASE_URL . '/assets/js');
 define('IMAGES_URL', BASE_URL . '/assets/images');
@@ -21,13 +21,13 @@ define('APP_ENV', 'development'); // 'development' ou 'production'
 define('APP_DEBUG', APP_ENV === 'development'); // Debug ativo apenas em desenvolvimento
 
 // Nome do Site
-define('SITE_NAME', 'Escola Prof. José Ranieri - 2024');
+define('SITE_NAME', 'Escola');
 
 // Configurações do Banco de Dados
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'dbnane');
-define('DB_USER', 'deuser');
-define('DB_PASS', 'dbpass');
+define('DB_NAME', 'x');
+define('DB_USER', 'y');
+define('DB_PASS', 'z');
 
 // Iniciar Sessão
 session_start();
